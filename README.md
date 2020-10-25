@@ -8,3 +8,4 @@ Notes and [Concept Maps](https://en.wikipedia.org/wiki/Concept_map) organized in
 - [The Brain](https://thebrain.com/)
 - org mode and org-zettelkasten
 - https://braindump.jethro.dev/
+- [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
